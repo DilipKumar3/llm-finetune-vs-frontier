@@ -1,0 +1,9 @@
+,large_open_fewshot,small_base_fewshot,small_finetuned,support
+Managing an account,0.263,0.09,0.465,78
+Closing an account,0.253,0.159,0.685,78
+Problem with a lender or other company charging your account,0.556,0.121,0.684,78
+Opening an account,0.227,0.05,0.772,78
+Problem caused by your funds being low,0.416,0.288,0.742,78
+Incorrect information on your report,0.143,0.056,0.0,4
+Problem with a company's investigation into an existing problem,0.0,0.0,0.0,3
+Improper use of your report,0.0,0.0,0.0,3

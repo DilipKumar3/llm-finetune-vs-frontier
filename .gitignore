@@ -1,0 +1,36 @@
+# --- Data (large, re-downloadable from CFPB) ---
+data/
+
+# --- Model artifacts (re-created by the notebook) ---
+outputs/
+*.safetensors
+*.bin
+*.pt
+*.ckpt
+
+# --- Partial / in-progress caches ---
+results/partial_*.csv
+
+# --- Kaggle / Colab run artifacts ---
+__huggingface_repos__.json
+__results___files/
+
+# --- Secrets ---
+.env
+.env.*
+*.key
+secrets.json
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# --- Editors / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

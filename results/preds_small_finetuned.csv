@@ -1,0 +1,401 @@
+id,label,output,sec,pred
+7412048,Opening an account,Managing an account,0.20584214508533477,Managing an account
+7232233,Opening an account,Managing an account,0.20584214508533477,Managing an account
+7510836,Managing an account,Closing an account,0.20584214508533477,Closing an account
+8048281,Managing an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+8290427,Opening an account,Opening an account,0.20584214508533477,Opening an account
+7132145,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+8237114,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+8067552,Closing an account,Closing an account,0.20584214508533477,Closing an account
+7445450,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+8606881,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+6463757,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7590905,Closing an account,Closing an account,0.20584214508533477,Closing an account
+8093887,Problem with a lender or other company charging your account,Opening an account,0.20584214508533477,Opening an account
+7351330,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+6613314,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7534686,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7393706,Managing an account,Managing an account,0.20584214508533477,Managing an account
+7952759,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+6817981,Closing an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7710315,Closing an account,Closing an account,0.20584214508533477,Closing an account
+7737450,Closing an account,Closing an account,0.20584214508533477,Closing an account
+8424934,Managing an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+6468102,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+6468619,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7462331,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+8337555,Opening an account,Opening an account,0.20584214508533477,Opening an account
+8040200,Managing an account,Managing an account,0.20584214508533477,Managing an account
+6546739,Managing an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+6469652,Closing an account,Closing an account,0.20584214508533477,Closing an account
+7217615,Managing an account,Managing an account,0.20584214508533477,Managing an account
+8650075,Managing an account,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7952316,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+6791848,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+8641870,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7325663,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7189048,Opening an account,Opening an account,0.20584214508533477,Opening an account
+7897592,Managing an account,Opening an account,0.20584214508533477,Opening an account
+6700105,Closing an account,Opening an account,0.20584214508533477,Opening an account
+8239267,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+8651861,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7237134,Managing an account,Opening an account,0.20584214508533477,Opening an account
+7188046,Opening an account,Opening an account,0.20584214508533477,Opening an account
+6535759,Opening an account,Opening an account,0.20584214508533477,Opening an account
+7877966,Opening an account,Opening an account,0.20584214508533477,Opening an account
+8415219,Problem with a company's investigation into an existing problem,Opening an account,0.20584214508533477,Opening an account
+8067845,Opening an account,Opening an account,0.20584214508533477,Opening an account
+6923452,Managing an account,Opening an account,0.20584214508533477,Opening an account
+7057034,Opening an account,Opening an account,0.20584214508533477,Opening an account
+8206627,Closing an account,Closing an account,0.20584214508533477,Closing an account
+8183190,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7646635,Problem with a lender or other company charging your account,Managing an account,0.20584214508533477,Managing an account
+8082180,Managing an account,Managing an account,0.20584214508533477,Managing an account
+7210773,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7771092,Opening an account,Managing an account,0.20584214508533477,Managing an account
+7042145,Opening an account,Opening an account,0.20584214508533477,Opening an account
+7505068,Problem caused by your funds being low,Opening an account,0.20584214508533477,Opening an account
+7234951,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7705167,Opening an account,Opening an account,0.20584214508533477,Opening an account
+8345161,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7101311,Opening an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+8321563,Opening an account,Opening an account,0.20584214508533477,Opening an account
+7003487,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7852242,Problem caused by your funds being low,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7609983,Closing an account,Closing an account,0.20584214508533477,Closing an account
+6550273,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+8169779,Managing an account,Managing an account,0.20584214508533477,Managing an account
+7237131,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7139759,Managing an account,Managing an account,0.20584214508533477,Managing an account
+7879079,Problem caused by your funds being low,Closing an account,0.20584214508533477,Closing an account
+6522466,Managing an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7111180,Opening an account,Opening an account,0.20584214508533477,Opening an account
+6547765,Closing an account,Managing an account,0.20584214508533477,Managing an account
+6437216,Opening an account,Opening an account,0.20584214508533477,Opening an account
+7012031,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+8173678,Problem caused by your funds being low,Managing an account,0.20584214508533477,Managing an account
+8337736,Closing an account,Closing an account,0.20584214508533477,Closing an account
+6749160,Closing an account,Closing an account,0.20584214508533477,Closing an account
+7341062,Closing an account,Closing an account,0.20584214508533477,Closing an account
+8386796,Opening an account,Opening an account,0.20584214508533477,Opening an account
+8285435,Opening an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7257915,Closing an account,Closing an account,0.20584214508533477,Closing an account
+8146577,Closing an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7806513,Managing an account,Managing an account,0.20584214508533477,Managing an account
+8296195,Opening an account,Opening an account,0.20584214508533477,Opening an account
+6490438,Opening an account,Opening an account,0.20584214508533477,Opening an account
+8065144,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+6490453,Opening an account,Opening an account,0.20584214508533477,Opening an account
+7446731,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7869446,Opening an account,Opening an account,0.20584214508533477,Opening an account
+6446914,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+6684610,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+6515358,Managing an account,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7475247,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7736854,Managing an account,Managing an account,0.20584214508533477,Managing an account
+7557256,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+6458400,Closing an account,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+6692505,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7161268,Closing an account,Closing an account,0.20584214508533477,Closing an account
+8052385,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+6903669,Closing an account,Managing an account,0.20584214508533477,Managing an account
+7705713,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+6894637,Opening an account,Opening an account,0.20584214508533477,Opening an account
+6660159,Managing an account,Managing an account,0.20584214508533477,Managing an account
+7359956,Closing an account,Closing an account,0.20584214508533477,Closing an account
+7839012,Managing an account,Managing an account,0.20584214508533477,Managing an account
+6881876,Problem caused by your funds being low,Closing an account,0.20584214508533477,Closing an account
+7973149,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+6612942,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7439576,Opening an account,Opening an account,0.20584214508533477,Opening an account
+8182894,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7675685,Managing an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7359890,Closing an account,Closing an account,0.20584214508533477,Closing an account
+7474766,Problem with a lender or other company charging your account,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7215081,Problem with a lender or other company charging your account,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7794717,Closing an account,Closing an account,0.20584214508533477,Closing an account
+7285498,Closing an account,Closing an account,0.20584214508533477,Closing an account
+8435623,Managing an account,Managing an account,0.20584214508533477,Managing an account
+7749326,Problem with a company's investigation into an existing problem,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+6592450,Closing an account,Closing an account,0.20584214508533477,Closing an account
+8274240,Managing an account,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+6985222,Closing an account,Closing an account,0.20584214508533477,Closing an account
+6908462,Problem caused by your funds being low,Closing an account,0.20584214508533477,Closing an account
+7169673,Opening an account,Opening an account,0.20584214508533477,Opening an account
+6727474,Managing an account,Managing an account,0.20584214508533477,Managing an account
+7500556,Problem caused by your funds being low,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7854443,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7775060,Managing an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+6956453,Managing an account,Managing an account,0.20584214508533477,Managing an account
+7520853,Closing an account,Closing an account,0.20584214508533477,Closing an account
+6748103,Managing an account,Opening an account,0.20584214508533477,Opening an account
+8187034,Managing an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7725337,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+8550175,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+8041857,Opening an account,Opening an account,0.20584214508533477,Opening an account
+6552052,Opening an account,Opening an account,0.20584214508533477,Opening an account
+8236539,Opening an account,Opening an account,0.20584214508533477,Opening an account
+7406043,Closing an account,Closing an account,0.20584214508533477,Closing an account
+6627026,Managing an account,Opening an account,0.20584214508533477,Opening an account
+7477755,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+6987921,Problem caused by your funds being low,Closing an account,0.20584214508533477,Closing an account
+7320610,Closing an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7106397,Opening an account,Opening an account,0.20584214508533477,Opening an account
+8143929,Managing an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7363473,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7362889,Managing an account,Managing an account,0.20584214508533477,Managing an account
+7685471,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+8592048,Opening an account,Opening an account,0.20584214508533477,Opening an account
+7124914,Opening an account,Opening an account,0.20584214508533477,Opening an account
+8203010,Closing an account,Closing an account,0.20584214508533477,Closing an account
+8290345,Problem with a lender or other company charging your account,Managing an account,0.20584214508533477,Managing an account
+7019166,Managing an account,Managing an account,0.20584214508533477,Managing an account
+7438836,Closing an account,Managing an account,0.20584214508533477,Managing an account
+8478909,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+6681129,Opening an account,Opening an account,0.20584214508533477,Opening an account
+7106464,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7329648,Opening an account,Opening an account,0.20584214508533477,Opening an account
+7852283,Managing an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+6883612,Opening an account,Opening an account,0.20584214508533477,Opening an account
+6471654,Managing an account,Closing an account,0.20584214508533477,Closing an account
+7959990,Problem caused by your funds being low,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+6545645,Closing an account,Closing an account,0.20584214508533477,Closing an account
+8271384,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7470232,Closing an account,Opening an account,0.20584214508533477,Opening an account
+6775701,Managing an account,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7974759,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7464108,Managing an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+6746009,Closing an account,Opening an account,0.20584214508533477,Opening an account
+8136105,Problem caused by your funds being low,Opening an account,0.20584214508533477,Opening an account
+7182865,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+8296886,Closing an account,Closing an account,0.20584214508533477,Closing an account
+6824974,Opening an account,Opening an account,0.20584214508533477,Opening an account
+7281637,Problem with a lender or other company charging your account,Closing an account,0.20584214508533477,Closing an account
+8028087,Closing an account,Opening an account,0.20584214508533477,Opening an account
+8409398,Opening an account,Opening an account,0.20584214508533477,Opening an account
+7550557,Opening an account,Opening an account,0.20584214508533477,Opening an account
+7242571,Opening an account,Opening an account,0.20584214508533477,Opening an account
+8432005,Managing an account,Managing an account,0.20584214508533477,Managing an account
+8192814,Problem caused by your funds being low,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+6470168,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+8387998,Opening an account,Closing an account,0.20584214508533477,Closing an account
+6501801,Opening an account,Opening an account,0.20584214508533477,Opening an account
+6402166,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+6490733,Closing an account,Managing an account,0.20584214508533477,Managing an account
+7774856,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+8516247,Problem caused by your funds being low,Managing an account,0.20584214508533477,Managing an account
+8415562,Managing an account,Managing an account,0.20584214508533477,Managing an account
+7929608,Opening an account,Opening an account,0.20584214508533477,Opening an account
+7036609,Managing an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7444440,Managing an account,Opening an account,0.20584214508533477,Opening an account
+6837523,Managing an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7586796,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7656383,Managing an account,Closing an account,0.20584214508533477,Closing an account
+7985513,Problem with a lender or other company charging your account,Managing an account,0.20584214508533477,Managing an account
+6456035,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+6391092,Opening an account,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+8607458,Closing an account,Closing an account,0.20584214508533477,Closing an account
+6743509,Closing an account,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+6760643,Managing an account,Opening an account,0.20584214508533477,Opening an account
+8052804,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7317103,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+8059966,Opening an account,Opening an account,0.20584214508533477,Opening an account
+6974418,Managing an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7995227,Opening an account,Opening an account,0.20584214508533477,Opening an account
+6540474,Closing an account,Managing an account,0.20584214508533477,Managing an account
+7433546,Closing an account,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+6644744,Opening an account,Opening an account,0.20584214508533477,Opening an account
+7568075,Opening an account,Opening an account,0.20584214508533477,Opening an account
+6896973,Closing an account,Closing an account,0.20584214508533477,Closing an account
+8382615,Closing an account,Closing an account,0.20584214508533477,Closing an account
+6837084,Managing an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+8651245,Improper use of your report,Opening an account,0.20584214508533477,Opening an account
+6673368,Managing an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7226510,Opening an account,Opening an account,0.20584214508533477,Opening an account
+8217879,Closing an account,Closing an account,0.20584214508533477,Closing an account
+7185211,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7540844,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7755044,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7407048,Managing an account,Managing an account,0.20584214508533477,Managing an account
+6847811,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7019768,Managing an account,Managing an account,0.20584214508533477,Managing an account
+7457856,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7105129,Managing an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+6915682,Opening an account,Opening an account,0.20584214508533477,Opening an account
+7989754,Closing an account,Closing an account,0.20584214508533477,Closing an account
+6872991,Opening an account,Opening an account,0.20584214508533477,Opening an account
+8603494,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7144240,Opening an account,Opening an account,0.20584214508533477,Opening an account
+7579603,Opening an account,Opening an account,0.20584214508533477,Opening an account
+6469572,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+6884269,Opening an account,Opening an account,0.20584214508533477,Opening an account
+8582022,Managing an account,Managing an account,0.20584214508533477,Managing an account
+8117305,Managing an account,Opening an account,0.20584214508533477,Opening an account
+8139810,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7429736,Managing an account,Closing an account,0.20584214508533477,Closing an account
+7827282,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7734126,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+6396913,Managing an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7113432,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7407930,Opening an account,Opening an account,0.20584214508533477,Opening an account
+6456888,Opening an account,Closing an account,0.20584214508533477,Closing an account
+6981150,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7205513,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+6469075,Problem caused by your funds being low,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+8097422,Problem caused by your funds being low,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7789481,Closing an account,Opening an account,0.20584214508533477,Opening an account
+8001955,Incorrect information on your report,Opening an account,0.20584214508533477,Opening an account
+6448069,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7574035,Closing an account,Closing an account,0.20584214508533477,Closing an account
+6521723,Problem with a lender or other company charging your account,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7347940,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+8312976,Closing an account,Closing an account,0.20584214508533477,Closing an account
+8034700,Problem caused by your funds being low,Closing an account,0.20584214508533477,Closing an account
+7626605,Closing an account,Opening an account,0.20584214508533477,Opening an account
+6464443,Problem caused by your funds being low,Closing an account,0.20584214508533477,Closing an account
+6516007,Managing an account,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7609601,Closing an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7538370,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+6792712,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7654717,Opening an account,Opening an account,0.20584214508533477,Opening an account
+8461309,Problem with a lender or other company charging your account,Managing an account,0.20584214508533477,Managing an account
+6648307,Opening an account,Closing an account,0.20584214508533477,Closing an account
+7505707,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+6463384,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7219140,Opening an account,Opening an account,0.20584214508533477,Opening an account
+8422030,Managing an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+8493013,Managing an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7826783,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+6516480,Closing an account,Closing an account,0.20584214508533477,Closing an account
+6775205,Managing an account,Managing an account,0.20584214508533477,Managing an account
+7401333,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7575149,Incorrect information on your report,Opening an account,0.20584214508533477,Opening an account
+8249369,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7224161,Opening an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+8312731,Closing an account,Closing an account,0.20584214508533477,Closing an account
+7908508,Managing an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+8215305,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7442055,Closing an account,Managing an account,0.20584214508533477,Managing an account
+7075000,Opening an account,Opening an account,0.20584214508533477,Opening an account
+7200087,Closing an account,Closing an account,0.20584214508533477,Closing an account
+7205994,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+8384599,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+8388621,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+8211646,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+6471779,Managing an account,Closing an account,0.20584214508533477,Closing an account
+6647030,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7635572,Improper use of your report,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+8651120,Opening an account,Opening an account,0.20584214508533477,Opening an account
+6947455,Managing an account,Managing an account,0.20584214508533477,Managing an account
+7217040,Closing an account,Closing an account,0.20584214508533477,Closing an account
+7826568,Closing an account,Closing an account,0.20584214508533477,Closing an account
+6767971,Closing an account,Closing an account,0.20584214508533477,Closing an account
+8140656,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+6477333,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7437278,Closing an account,Closing an account,0.20584214508533477,Closing an account
+6431224,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7609631,Opening an account,Opening an account,0.20584214508533477,Opening an account
+6463976,Problem with a lender or other company charging your account,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+6407026,Closing an account,Closing an account,0.20584214508533477,Closing an account
+6648303,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+8370606,Closing an account,Closing an account,0.20584214508533477,Closing an account
+7795668,Managing an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+6810296,Opening an account,Opening an account,0.20584214508533477,Opening an account
+7244017,Opening an account,Opening an account,0.20584214508533477,Opening an account
+7172662,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7733211,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+8263272,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+6651175,Opening an account,Opening an account,0.20584214508533477,Opening an account
+8020997,Problem caused by your funds being low,Managing an account,0.20584214508533477,Managing an account
+8259441,Closing an account,Closing an account,0.20584214508533477,Closing an account
+6439036,Closing an account,Closing an account,0.20584214508533477,Closing an account
+7589604,Closing an account,Closing an account,0.20584214508533477,Closing an account
+7150547,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+6467896,Closing an account,Opening an account,0.20584214508533477,Opening an account
+6413572,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+6472306,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+8459501,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+6464436,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7275644,Closing an account,Managing an account,0.20584214508533477,Managing an account
+7065544,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+6718507,Managing an account,Managing an account,0.20584214508533477,Managing an account
+8182492,Opening an account,Opening an account,0.20584214508533477,Opening an account
+6527544,Managing an account,Managing an account,0.20584214508533477,Managing an account
+7068508,Managing an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+8459801,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7948314,Opening an account,Closing an account,0.20584214508533477,Closing an account
+8212232,Closing an account,Opening an account,0.20584214508533477,Opening an account
+7116461,Opening an account,Opening an account,0.20584214508533477,Opening an account
+6801440,Closing an account,Closing an account,0.20584214508533477,Closing an account
+7842340,Managing an account,Managing an account,0.20584214508533477,Managing an account
+8181309,Problem caused by your funds being low,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7667294,Managing an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7595464,Opening an account,Opening an account,0.20584214508533477,Opening an account
+6437205,Closing an account,Closing an account,0.20584214508533477,Closing an account
+6420082,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+8236962,Incorrect information on your report,Closing an account,0.20584214508533477,Closing an account
+8529344,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7058632,Closing an account,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7633968,Closing an account,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+8340460,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7733812,Problem caused by your funds being low,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+6815313,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+8274626,Closing an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7414027,Closing an account,Closing an account,0.20584214508533477,Closing an account
+7371784,Managing an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+6714937,Opening an account,Opening an account,0.20584214508533477,Opening an account
+8630971,Managing an account,Managing an account,0.20584214508533477,Managing an account
+7650855,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+8414691,Managing an account,Managing an account,0.20584214508533477,Managing an account
+7619897,Managing an account,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+8096242,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7700737,Closing an account,Closing an account,0.20584214508533477,Closing an account
+7869105,Problem with a company's investigation into an existing problem,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7115844,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7107956,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7753045,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7131952,Opening an account,Opening an account,0.20584214508533477,Opening an account
+7467029,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7860101,Managing an account,Opening an account,0.20584214508533477,Opening an account
+7235420,Closing an account,Managing an account,0.20584214508533477,Managing an account
+6698647,Opening an account,Opening an account,0.20584214508533477,Opening an account
+7604408,Opening an account,Opening an account,0.20584214508533477,Opening an account
+6849326,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+6856994,Opening an account,Opening an account,0.20584214508533477,Opening an account
+7845530,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+6505087,Closing an account,Closing an account,0.20584214508533477,Closing an account
+6579657,Managing an account,Managing an account,0.20584214508533477,Managing an account
+7261302,Opening an account,Opening an account,0.20584214508533477,Opening an account
+6889175,Managing an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7634182,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7580915,Closing an account,Closing an account,0.20584214508533477,Closing an account
+6769994,Opening an account,Opening an account,0.20584214508533477,Opening an account
+7661225,Closing an account,Closing an account,0.20584214508533477,Closing an account
+7641255,Managing an account,Managing an account,0.20584214508533477,Managing an account
+7264604,Opening an account,Opening an account,0.20584214508533477,Opening an account
+8268496,Managing an account,Managing an account,0.20584214508533477,Managing an account
+7969086,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+6787243,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7554169,Opening an account,Managing an account,0.20584214508533477,Managing an account
+6964362,Problem with a lender or other company charging your account,Opening an account,0.20584214508533477,Opening an account
+7285383,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7642473,Closing an account,Closing an account,0.20584214508533477,Closing an account
+7444843,Problem with a lender or other company charging your account,Managing an account,0.20584214508533477,Managing an account
+6698684,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+6579309,Incorrect information on your report,Managing an account,0.20584214508533477,Managing an account
+7563800,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7362373,Improper use of your report,Opening an account,0.20584214508533477,Opening an account
+7096884,Problem caused by your funds being low,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+6945876,Managing an account,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+8218608,Managing an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7909593,Problem caused by your funds being low,Closing an account,0.20584214508533477,Closing an account
+7914718,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+8192505,Managing an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7267705,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7633377,Closing an account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+7964081,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7313214,Closing an account,Opening an account,0.20584214508533477,Opening an account
+7683071,Problem caused by your funds being low,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account
+8036446,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+6471488,Problem caused by your funds being low,Problem caused by your funds being low,0.20584214508533477,Problem caused by your funds being low
+7588258,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,0.20584214508533477,Problem with a lender or other company charging your account

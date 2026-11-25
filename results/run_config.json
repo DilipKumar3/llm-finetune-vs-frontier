@@ -1,0 +1,59 @@
+{
+  "product": "Checking or savings account",
+  "min_date": "2023-01-01",
+  "labels": [
+    "Managing an account",
+    "Closing an account",
+    "Problem with a lender or other company charging your account",
+    "Opening an account",
+    "Problem caused by your funds being low",
+    "Incorrect information on your report",
+    "Problem with a company's investigation into an existing problem",
+    "Improper use of your report"
+  ],
+  "small_model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "baseline_model": "Qwen/Qwen2.5-7B-Instruct",
+  "lora": [
+    16,
+    32,
+    0.05
+  ],
+  "lr": 0.0002,
+  "epochs": 1,
+  "n_train": 3502,
+  "n_test": 400,
+  "details": {
+    "large_open_fewshot": {
+      "accuracy": 0.3475,
+      "macro_f1": 0.2322787368603466,
+      "macro_f1_95ci": "0.194\u20130.271",
+      "invalid_rate": 0.0,
+      "sec_per_item": 1.5501844418048858,
+      "cost_per_1k_usd": 0.22649917121926944,
+      "model": "Qwen/Qwen2.5-7B-Instruct"
+    },
+    "small_base_fewshot": {
+      "accuracy": 0.1775,
+      "macro_f1": 0.09548630798630797,
+      "macro_f1_95ci": "0.070\u20130.122",
+      "invalid_rate": 0.0,
+      "sec_per_item": 0.46578954756259916,
+      "cost_per_1k_usd": 0.0680570283383131,
+      "model": "Qwen/Qwen2.5-1.5B-Instruct"
+    },
+    "small_finetuned": {
+      "accuracy": 0.67,
+      "macro_f1": 0.4184546610774148,
+      "macro_f1_95ci": "0.388\u20130.445",
+      "invalid_rate": 0.0,
+      "sec_per_item": 0.20584214508533477,
+      "cost_per_1k_usd": 0.030075824531912806,
+      "model": "Qwen/Qwen2.5-1.5B-Instruct",
+      "train_minutes": 24.71324814558029,
+      "peak_gpu_gb": 11.400270848,
+      "val_loss": 0.2879200577735901,
+      "trainable_params": 18464768,
+      "train_examples": 3502
+    }
+  }
+}
